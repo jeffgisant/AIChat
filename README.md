@@ -25,3 +25,5 @@
 Users can download and install the application on their system. Once installed, they can open the terminal and run the app using a specific command. From there, they can start chatting with the AI, asking questions, getting information, and enjoying a rich conversation experience, all from the comfort of their computer terminal.
 
 In short, **AI Chat in Terminal Console** offers a unique and convenient way to interact with advanced artificial intelligence using the familiar terminal interface. It enables natural and efficient conversations on a variety of topics, bringing a new level of accessibility to chatbot technology.
+
+You just have to add your OpenAI API key in the "openai.api_key" section. ;)
